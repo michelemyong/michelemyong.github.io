@@ -41,6 +41,8 @@ menu:
 menu_external:
  - title: LinkedIn
    url: "https://www.linkedin.com/in/michelemyong"
+exclude:
+ - _includes/sharing.html
 mathjax: false
 markdown: kramdown
 encoding: utf-8
