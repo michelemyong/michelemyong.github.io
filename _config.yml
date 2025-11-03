@@ -47,6 +47,8 @@ menu_external:
    url: "https://no.linkedin.com/in/olehhvik"
  - title: Twitter
    url: "https://twitter.com/olehhv"
+exclude:
+ - _includes/sharing.html
 mathjax: false
 markdown: kramdown
 encoding: utf-8
