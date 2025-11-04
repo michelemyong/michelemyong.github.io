@@ -266,6 +266,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   rails
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.7.2

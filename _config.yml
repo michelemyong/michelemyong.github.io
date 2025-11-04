@@ -39,12 +39,11 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: LinkedIn
-   url: "https://www.linkedin.com/in/michelemyong"
+ 
 exclude:
  - _includes/sharing.html
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: michelemyong.github.io
+baseurl: /
 locale: en_GB
