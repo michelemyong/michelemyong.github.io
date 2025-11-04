@@ -45,5 +45,5 @@ exclude:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: /
+baseurl: michelemyong.github.io
 locale: en_GB
