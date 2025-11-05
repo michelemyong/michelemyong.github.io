@@ -7,22 +7,33 @@ layout: default
 
 My expertise is broad, but deep, and I categorize my research achievements into (1) measurement science, (2) machine learning for chemistry, and (3) materials development. The last category discusses my future research interests, which I'm not limited to, but would be excited to talk about and expand on the directions that I have in mind. For an updated list of publications, you can visit my [Google Scholar](https://scholar.google.com/citations?user=F0uGlo0AAAAJ&hl=en) page.
 
-## Accelerator Science for Precision Measurements
+<details open markdown="1">
+<summary><h2>Accelerator Science for Precision Measurements</h2></summary>
+
 During my postdoc, I was a user of the picosecond pulse radiolysis facility at the Laser Electron Accelerator Facility (LEAF), where I used high energy (~9 MeV), picosecond electron pulses to initiate charge and energy transfer events in condensed phase chemistry systems, and probed their absorption and emission properties over time (nano to microsecond timescales). I established a new way of thinking about [charge transfer to dimer radical cations](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c07302) and [elucidated a complex photocatalysis mechanism](https://pubs.acs.org/doi/abs/10.1021/jacs.4c08795). I have many publications forthcoming from my work at LEAF, which include using pulse radiolysis to establish the N2200 polaron as a probe of dynamic nanoscale environments and characterize the properties of a new family of cibalackrots for singlet fission.
 
 My crowning work was the development of a new measurement method, using pulse radiolysis, to establish the energy levels for electrons and holes in state-of-the-art organic materials to millivolt (mV) precision. This has historically been a challenge because of the nature of common techniques that are used to measure energy levels of molecules and materials. We established a a pulse radiolysis method to determine referenced, reversible one-electron redox potentials of conjugated polymers in a nonpolar environment. These values can be determined with mV precision, reflect the low polarity of molecular films, and are not swayed by film processing conditions, thus representing a fundamental and immutable property of a given polymer motif. Such measurements can be used to benchmark density functional theory (DFT) calculations and better interpret film-based measurements for a better overall understanding of structure-property relationships in these materials, leading to improved design across a broad range of applications. This paper is forthcoming.
+</details>
 
-## Machine Learning for Chemical Discovery
+<details markdown="1">
+<summary><h2>Machine Learning for Chemical Discovery</h2></summary>
 More recently, I have become interested in using machine learning to aid my research and developed skills in programming and statistics to train models to learn from experimental data, predict properties of new materials, and even generate new candidate molecules for specific applications that use organic electronics. I used graph neural networks (GNNs) to [predict drug potency](https://github.com/michelemyong/GNN_model_TRPM8_Drug_Potency_prediction) of small organic molecules directly from their structure and also [automated the analysis](https://github.com/michelemyong/mars_spectroscopy) of tandem mass spectrometry data used to characterize minerals in Mars rock from a NASA dataset. 
 
 My ongoing project uses GNNs to predict the optical spectra of radical ions, and then extends on this work by using a diffusion model to generate molecule candidates with certain optical properties. Most of my deep learning work has been in PyTorch, using cheminformatics libraries like OpenBabel and RDKit to create molecular graph representations for training. I've started exploring the PyG library and PyTorch lightning. I use Github regularly and have a solid foundation in object-oriented programming, C/C++, web development (HTML, CSS, Jekyll) and doing things in VisualStudio Code and Linux. I am an alumna of the [2025 INTERSECT Program](https://intersect-training.org/bootcamp25/) at Princeton (Research Software Engineering training).
+</details>
 
-## Ultrafast Spectroscopy of Renewable Energy Materials
+<details markdown="1"> 
+<summary><h2>Ultrafast Spectroscopy of Renewable Energy Materials</h2></summary>
 My doctoral thesis explored how excitons and other excited states move in self-assembled organic materials that mimic light-harvesting organisms found in nature that do photosynthesis. This has applications in solar energy conversion, where the abundance of light from the sun is convereted into chemical or electrical energy. I used femtosecond transient absorption spectroscopy/microscopy to investigate different material systems that I synthesized. I created the first organic-inorganic material that contains an organic chromophore covalently bound to anodic aluminum oxide walls and probed this using aforementioned spectroscopic methods. I started with [this system](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b10805) and then explored [this system](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.1c06927) and furthered my investigations into the [solid-state](https://pubs.rsc.org/en/content/articlelanding/2021/tc/d1tc04313g/unauth). All of these projects cemented my materials synthesis skills and understanding of kinetics and correlating structure to photophysical properties.
 
 I also contributed to research in [singlet fission](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.2c03621) and triplet-triplet annihilation [upconversion](https://pubs.acs.org/doi/abs/10.1021/jacs.2c13846). 
 
-## <a id="my-section-id"></a>Future Research: Developing New Platforms for Quantum Sensing
+</details>
+
+
+<details markdown="1">
+<summary><h2><a id="my-section-id"></a>Future Research: Developing New Platforms for Quantum Sensing </h2></summary>
 I have a lot of ideas about adapting existing accelerator platforms and developing some lower-cost instrumentation to explore the use of spin in organic materials for quantum sensing. This would draw on all of my skills in spectroscopy, materials synthesis, and machine learning; while this seems ambitious, this naturally combines tools from my background in a synergistic way and leverages all of my strengths as an early career researcher. I'm excited because the possibilities are endless and I'm ready to put some of my ideas into practice and be in a vibrant intellectual environment where I can really grow from people's feedback. 
 
 I won't list all of my ideas here, but if you'd like to hear some of them and just talk about your experience and perspective in molecular quantum sensing (or more broadly quantum information science) I'd love to chat.
+</details>
