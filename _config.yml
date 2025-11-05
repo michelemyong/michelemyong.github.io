@@ -18,13 +18,6 @@ menu:
    url: /teaching
  - page: Resume
    url: /resume
-   links:
-   - title: Experience
-     url: "#experience"
-   - title: Education
-     url: "#education"
-   - title: Positions
-     url: "#positions"
  - page: Contact
    url: /contact
 
