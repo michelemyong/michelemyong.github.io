@@ -7,13 +7,13 @@ menu:
    url: /research
    links:
     - title: "Accelerator Science for Precision Measurements"
-      url: "#acclerator-science-for-precision-measurements"
+      url: "#accelerator-science-for-precision-measurements"
     - title: "Machine Learning for Chemical Discovery"
-      url: "#project-two"
+      url: "#machine-learning-for-chemical-discovery"
     - title: "Ultrafast Spectroscopy of Renewable Energy Materials"
-      url: "#project-three"
+      url: "#ultrafast-spectroscopy-of-renewable-energy-materials"
     - title: "Future Research"
-      url: "#project-four"
+      url: "#my-section-id"
  - page: Teaching & Mentorship
    url: /teaching
  - page: Resume
