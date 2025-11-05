@@ -1,9 +1,9 @@
 ---
-title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
+title: Resume
+summary: "Michele Myong"
+cv_title: Michele Myong, PhD
+cv_subtitle: Physical Chemist
+location: Dallas-Fort Worth Metroplex
 phone: 
 contact_name: OleVik.net/Contact
 contact_link: http://olevik.net/contact

@@ -3,14 +3,7 @@ description: Personal website
 menu:
  - page: About
    url: /about
- - page: Papers
-   url: /papers
-   links:
-    - title: Working papers
-      url: "#working-papers"
-    - title: Published papers
-      url: "#published-papers"
- - page: Research Projects
+ - page: Research 
    url: /research
    links:
     - title: "Project One"
@@ -21,27 +14,24 @@ menu:
       url: "#project-three"
     - title: "Project Four"
       url: "#project-four"
- - page: Curriculum Vitae
-   url: /cv
-   links:
-    - title: Experience
-      url: "#experience"
-    - title: Education
-      url: "#education"
-    - title: Positions
-      url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
- - page: Teaching
+ - page: Teaching & Mentorship
    url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
-menu_external:
- 
+ - page: Resume
+   url: /resume
+   links:
+   - title: Experience
+     url: "#experience"
+   - title: Education
+     url: "#education"
+   - title: Positions
+     url: "#positions"
+ - page: Contact
+   url: /contact
+
+
 exclude:
  - _includes/sharing.html
+ 
 mathjax: false
 markdown: kramdown
 encoding: utf-8
