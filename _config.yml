@@ -6,13 +6,13 @@ menu:
  - page: Research 
    url: /research
    links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
+    - title: "Accelerator Science for Precision Measurements"
+      url: "#acclerator-science-for-precision-measurements"
+    - title: "Machine Learning for Chemical Discovery"
       url: "#project-two"
-    - title: "Project Three"
+    - title: "Ultrafast Spectroscopy of Renewable Energy Materials"
       url: "#project-three"
-    - title: "Project Four"
+    - title: "Future Research"
       url: "#project-four"
  - page: Teaching & Mentorship
    url: /teaching
