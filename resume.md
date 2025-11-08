@@ -12,5 +12,5 @@ Here is my [resume](assets/images/Resume_Myong_2025.pdf). My academic CV is avai
 <b>(2017-2020)</b>  National Science Foundation, <i>Graduate Research Fellowship</i><br>
 <b>(2015)</b>  Societe de Chimie Industrielle, <i> Research Fellowship</i><br>
 <b>(2013-2015)</b>  Columbia University, <i>Mark and Anla Cheng Kingdon Scholarship</i><br>
-<b>(2013)</b>  Columbia University, <i>Undergraduate Research Fellowship</i><br>
+<b>(2013)</b>  Columbia University Energy Frontier Research Center, <i>Undergraduate Research Fellowship</i><br>
 </p>
