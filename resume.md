@@ -4,7 +4,7 @@ summary: "About this page."
 date: 2025-11-08
 layout: default
 ---
-Here is my <a href="michelemyong.github.io/assets/pdfs/Resume_Myong_2025.pdf" target="_blank">resume.</a> My academic CV is available by request.
+Here is my <a href="/assets/pdfs/Resume_Myong_2025.pdf" target="_blank">resume</a>. My academic CV is available by request.
 
 <h3>Awards & Fellowships</h3>
 
