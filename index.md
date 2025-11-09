@@ -11,4 +11,4 @@ I am passionate about pursuing research that will lead to a sustainable future f
 
 Currently, I'm open to research collaborations and offer consultations that draw on my background in molecular science and machine learning. You can [schedule a call](https://supercal.com/michelemyong) with me to learn more about my teaching and consultation offerings.
 
-![the future](assets/images/future solar.jpg)
+![the future](/assets/images/future solar.jpg)
