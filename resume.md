@@ -4,7 +4,7 @@ summary: "About this page."
 date: 2025-11-08
 layout: default
 ---
-Here is my [resume](assets/Resume_Myong_2025.pdf). My academic CV is available by request.
+Here is my [resume](assets/pdfs/Resume_Myong_2025.pdf). My academic CV is available by request.
 
 <h3>Awards & Fellowships</h3>
 
