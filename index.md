@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Welcome!"
 summary: "Welcome!"
 date: 2025-11-08
 layout: default
