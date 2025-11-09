@@ -12,4 +12,4 @@ Inclusion in science is very important to me, and I have many experiences mentor
 
 I am excited to leverage my technical, communication, and leadership skills to advance discoveries that will lead to a sustainable future for our society. If you are interested in discussing potential research collaborations or my teaching services, please feel free to contact me via email.
 
-![Researcher Portrait](assets/images/michele.jpg)
+![Researcher Portrait](assets/images/michele.jpg "Michele")
