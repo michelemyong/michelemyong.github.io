@@ -5,7 +5,7 @@ date: 2025-11-08
 layout: default
 ---
 
-I'm a physical chemist with expertise in ultrafast spectroscopy and machine learning interested in leveraging my skills to accelerate the development of materials for renewable energy and quantum information science. Most recently, I completed postdoctoral research at Brookhaven National Laboratory where I arrived after earning my PhD in physical chemistry at Northwestern University. I did my undergraduate degree in chemistry at Columbia University.
+I'm a physical chemist currently working as a Systems Integration Engineer, with a research background in ultrafast spectroscopy and machine learning. Most recently, I completed postdoctoral research at Brookhaven National Laboratory where I arrived after earning my PhD in physical chemistry at Northwestern University. I did my undergraduate degree in chemistry at Columbia University.
 
 I am passionate about pursuing research that will lead to a sustainable future for our society. I am equally invested in making STEM research an inclusive place, and I have mentored many younger scientists with intentionality and care to help them reach their professional goals. 
 
