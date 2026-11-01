@@ -9,7 +9,7 @@ layout: default
   <img src="assets/images/michele_2026.jpg" alt="Researcher photo" width="35%" />
 </p>
 
-I am an experimental physical chemist working as a Systems Integration Engineer at [Picarro](https://www.picarro.com). I am interested in leveraging both my spectroscopy and machine learning experience to improve chemical sensing, detection, and characterization in industrial environments. Most recently, I was a postdoctoral researcher at Brookhaven National Laboratory, where I developed materials for solar energy conversion and quantum information science.
+I am an experimental physical chemist working as a Systems Integration Engineer at [Picarro](https://www.picarro.com). I am interested in leveraging both my spectroscopy and machine learning experience to improve chemical detection, quantification, and characterization in industrial environments. Most recently, I was a postdoctoral researcher at Brookhaven National Laboratory, where I developed materials for solar energy conversion and quantum information science.
 
 My expertise is in harnessing ultrafast spectroscopy (including transient absorption and electron accelerators) to study energy and charge transfer in chemical systems for renewable energy. Now, I am learning systems and hardware engineering to turn concepts into high-performing systems, ready for production. Recently, I have been working on using machine learning and high-performance computing to improve chemical detection.  
 
