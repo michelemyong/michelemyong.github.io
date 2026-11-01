@@ -10,6 +10,6 @@ My expertise is in harnessing ultrafast spectroscopy (including transient absorp
 
 Inclusion in science is very important to me, and I have many experiences mentoring and teaching younger researchers to help them achieve their goals. Building community is key to improving the way we do science, and I have created many initiatives such as seminars and study groups to bring people together to work towards a common goal.
 
-I am excited to leverage my technical, communication, and leadership skills to advance discoveries that will lead to a sustainable future for our society. If you are interested in discussing potential research collaborations or my teaching services, please feel free to contact me via email.
+I am excited to leverage my technical, communication, and leadership skills to advance discoveries that will lead to a sustainable future for our society. Please feel free to contact me via email for any inquiries.
 
 ![Researcher Portrait](assets/images/michele_2026.jpg "Michele")
