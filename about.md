@@ -4,9 +4,9 @@ summary: About this page.
 date: 2025-11-04
 layout: default
 ---
-I am an experimental physical chemist working on problems in solar energy conversion and quantum information science. I am interested in leveraging both my spectroscopy and machine learning experience to accelerate the development of materials for renewable energy, bridging the gap between experimental and computational science. Most recently, I was a postdoctoral researcher at Brookhaven National Laboratory, where I came after earning my PhD in physical chemistry at Northwestern University.
+I am an experimental physical chemist working as a Systems Integration Engineer at [Picarro](https://www.picarro.com). I am interested in leveraging both my spectroscopy and machine learning experience to improve chemical sensing, detection, and characterization in industrial environments. Most recently, I was a postdoctoral researcher at Brookhaven National Laboratory, where I developed materials for solar energy conversion and quantum information science.
 
-My expertise is in harnessing ultrafast spectroscopy (including transient absorption and electron accelerators) to study energy and charge transfer in chemical systems for renewable energy. I am also skilled in synthesizing the materials that I want to study, which range from molecules to self-assembled materials. Recently, I have been working on using machine learning to predict the properties of new molecules that can speed up the development of chemicals for quantum information science, solar energy, and photocatalysis.  
+My expertise is in harnessing ultrafast spectroscopy (including transient absorption and electron accelerators) to study energy and charge transfer in chemical systems for renewable energy. Now, I am learning systems and hardware engineering that turns concepts into functioning products, ready for production. Recently, I have been working on using machine learning and high-performance computing to improve chemical detection.  
 
 Inclusion in science is very important to me, and I have many experiences mentoring and teaching younger researchers to help them achieve their goals. Building community is key to improving the way we do science, and I have created many initiatives such as seminars and study groups to bring people together to work towards a common goal.
 
